@@ -1,2 +1,2 @@
 Hello welcome to demo repository
-Deomo update
+Demo update 
